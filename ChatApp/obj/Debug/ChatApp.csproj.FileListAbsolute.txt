@@ -1,0 +1,88 @@
+R:\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+R:\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+R:\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+R:\ChatApp\ChatApp\bin\Debug\Guna.UI2.dll
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.ClientForm.resources
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.Up2Date
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.FormLogin.resources
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.UserOnlineControl.resources
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.DocumentMessageControl.resources
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.IconMessageControl.resources
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.PictureMessageControl.resources
+R:\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.VideoMessageControl.resources
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\Guna.UI2.dll
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.ClientForm.resources
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.DocumentMessageControl.resources
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.IconMessageControl.resources
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.PictureMessageControl.resources
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.UserOnlineControl.resources
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.VideoMessageControl.resources
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.FormLogin.resources
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.Up2Date
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\Emotions\think.png
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\Emotions\hungry.png
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\Emotions\smile.png
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\Emotions\sad.png
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\Emotions\love.png
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.ResolveComReference.cache
+C:\Users\asus\Downloads\ChatApp\ChatApp\bin\Debug\Images\play.png
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.FormPlayer.resources
+C:\Users\asus\Downloads\ChatApp\ChatApp\obj\Debug\ChatApp.FormRegister.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Avatars\1.jpg
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Avatars\2.jpg
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Avatars\3.jpg
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Avatars\4.jpg
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Emotions\think.png
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Emotions\hungry.png
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Emotions\smile.png
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Emotions\sad.png
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Emotions\love.png
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Images\play.png
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Guna.UI2.dll
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\AxInterop.WMPLib.dll
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\Interop.WMPLib.dll
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\AxInterop.WMPLib.dll
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.ResolveComReference.cache
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.ClientForm.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.DocumentMessageControl.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.IconMessageControl.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.PictureMessageControl.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.UserOnlineControl.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.Controls.VideoMessageControl.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.FormLogin.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.FormPlayer.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.FormRegister.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.Up2Date
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\INIFileParser.dll
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\INIFileParser.xml
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\obj\Debug\ChatApp.FormSettings.resources
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\configs.ini
+D:\WorkProject\Y2024\Nguyễn Lan Fb\ChatApp\ChatApp\bin\Debug\Interop.WMPLib.dll
